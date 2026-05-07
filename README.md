@@ -8,7 +8,7 @@ I am currently focusing on my studies and strengthening my knowledge in web appl
 
 * 🌍  I'm based in Dormitory B, VNU
 * ✉️  You can contact me at [nhbphuc2006@gmail.com](mailto:nhbphuc2006@gmail.com)
-* 🧠  I'm currently learning NestJs
+* 🧠  I'm currently learning Devops
 
 ### Tech Stack
 
