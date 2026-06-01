@@ -17,3 +17,22 @@ I am currently focusing on my studies and strengthening my knowledge in web appl
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/KalnaiWin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/nguyen.huynh.bao.phuc.2025" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+
+### Projects
+
+
+<br>
+
+<a href="https://github.com/BPhuc246/vids-play">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=vids-play&theme=radical" />
+</a>    
+<a href="https://github.com/BPhuc246/tiddy-pet-ecommerce">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=tiddy-pet-ecommerce&theme=merko" />
+</a>
+
+<a href="https://github.com/BPhuc246/poker">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=poker&theme=gruvbox" />
+</a>    
+<a href="https://github.com/BPhuc246/roll-call">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=roll-call&theme=dark" />
+</a>
