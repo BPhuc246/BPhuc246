@@ -27,8 +27,8 @@ I am currently focusing on my studies and strengthening my knowledge in web appl
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=vids-play&theme=radical" />
 </a>  
 
-<a href="https://github.com/BPhuc246/roll-call">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=roll-call&theme=dark" />
+<a href="https://github.com/BPhuc246/leetcode_solver">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=leetcode_solver&theme=dark" />
 </a>
 
 <a href="https://github.com/BPhuc246/poker">
