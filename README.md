@@ -35,6 +35,6 @@ I am currently focusing on my studies and strengthening my knowledge in web appl
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=poker&theme=gruvbox" />
 </a> 
 
-<a href="https://github.com/BPhuc246/tiddy-pet-ecommerce">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=tiddy-pet-ecommerce&theme=merko" />
+<a href="https://github.com/BPhuc246/it-helpdesk-learning">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BPhuc246&repo=it-helpdesk-learning&theme=merko" />
 </a>
