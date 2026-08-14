@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phuc
 =============================================================================================================================
 
-A sophomore student of UIT-VNU
+A third-year student of UIT-VNU
 ------------------------------
 
-I am currently focusing on my studies and strengthening my knowledge in web application development
+I am currently focusing on my studies and strengthening my knowledge in networking major
 
 * 🌍  I'm based in Dormitory B, VNU
 * ✉️  You can contact me at [nhbphuc2006@gmail.com](mailto:nhbphuc2006@gmail.com)
